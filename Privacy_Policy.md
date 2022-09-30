@@ -1,11 +1,11 @@
-# Privacy Policy
-	French Express App provide this privacy policy notice explaining the way your personal information is collected and used.
+	# Privacy Policy
+	French Express App provides this privacy policy notice explaining the way your personal information is collected and used.
 
 	## Collection of Routine Information
-	French Express App does not track any information about their users. 
+	French Express App does not track any information about users. 
 
 	## Cookies
-	French Express App does use cookies to track any information about their users. 
+	French Express App does use cookies to track any information about users. 
 
 	## Advertisement and Other Third Parties	
 	Advertising partners and other third parties may use cookies, scripts and/or web beacons to track user activities on this app in order to 
